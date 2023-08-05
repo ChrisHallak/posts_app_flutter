@@ -1,0 +1,2 @@
+int NUMBER_OF_POSTS = 0;
+int COUNTER = 1;
